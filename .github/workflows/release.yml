@@ -29,8 +29,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ github.event.release.upload_url }}
-          asset_path: ./build/ctbautomation-kicad-addon.zip
-          asset_name: ctbautomation-kicad-addon.zip
+          asset_path: ./build/ctb-kicad-addon.zip
+          asset_name: ctb-kicad-addon.zip
           asset_content_type: application/zip
 
       - name: Include Metadata File on Main Branch
