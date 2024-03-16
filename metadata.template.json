@@ -1,0 +1,25 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "CTB Automation Library",
+    "description": "This addon contains the Symbols, Footprint, and 3D Models for CTB Automation GmbH.",
+    "description_full": "This addon contains the Symbols, Footprint, and 3D Models for CTB Automation GmbH.",
+    "identifier": "com.github.ctbautomation.kicad-libraries",
+    "type": "library",
+    "author": {
+        "name": "Ewald Weinhandl",
+        "contact": {
+            "web": "https://github.com/ctbautomation/kicad-libraries"
+        }
+    },
+    "maintainer": {
+        "name": "Ewald Weinhandl",
+        "contact": {
+            "web": "https://github.com/ctbautomation/kicad-libraries"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://github.com/ctbautomation/kicad-libraries"
+    },
+    "versions": []
+}
