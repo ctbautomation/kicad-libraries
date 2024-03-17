@@ -9,7 +9,7 @@
 
 > From the version 1.0.0, the library instalation process is done by the PCM.
 
-This repository contains the Symbols, Footprint, and 3D Models for the Espressif SoC and Modules family.
+This repository contains the Symbols, Footprint, and 3D Models for CTB Automation GmbH.
 
 
 * Notice: The libraries are provided in the hope that they will be useful but without a warranty of any kind.
@@ -25,11 +25,11 @@ All footprints were designed according to the Recommended PCB Land Pattern secti
 
 ## Manual Installation - PCM
 
-The Espressif KiCad library is distributed via the Pluguin and Content Manager (PCM) and the installation is done automatically.
+The CTB KiCad library is distributed via the Pluguin and Content Manager (PCM) and the installation is done automatically.
 
-To install the library, you need to download the **[ctb-kicad-addon.zip](https://github.com/ctbautomation/kicad-libraries/releases/latest/download/ctb-kicad-addon.zip)** file from the latest release. For legacy support, please visit the legacy branch and follow the instructions from there.
+To install the library, you need to download the **[ctb-kicad-addon.zip](https://github.com/ctbautomation/kicad-libraries/releases/latest/download/ctb-kicad-addon.zip)** file from the latest release.
 
-## [Download here the latest library!](https://github.com/ctbautomation/kicad-libraries/releases/latest/download/ctbautomation-kicad-addon.zip)
+## [Download here the latest library!](https://github.com/ctbautomation/kicad-libraries/releases/latest/download/ctb-kicad-addon.zip)
 
 > Make sure to download the correct zip file and ***do not extract the files***. If you are using macOS and Safari, ensure to that the automatic unzip feature (**Open safe files after downloading**) is disabled.
 
@@ -49,11 +49,11 @@ For KiCad 8 you can use the following steps:
 
 ![First Step](docs/pcm_install_step-3.png)
 
-4. Once the package is installed, you will see the Espressif Library listed on the Installed tab.
+4. Once the package is installed, you will see the CTB Library listed on the Installed tab.
 
 ![First Step](docs/pcm_install_step-4.png)
 
-5. Now you are ready to use the library. Note that the library will be listed as **PCM_Espressif** in the Symbol and Footprint.
+5. Now you are ready to use the library. Note that the library will be listed as **PCM_CTB** in the Symbol and Footprint.
 
 ## Contributing
 
