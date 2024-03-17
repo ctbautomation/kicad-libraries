@@ -21,5 +21,15 @@
     "resources": {
         "homepage": "https://github.com/ctbautomation/kicad-libraries"
     },
-    "versions": []
+    "versions": [
+        {
+            "version": "1.0.0",
+            "status": "stable",
+            "kicad_version": "8.0.0",
+            "download_sha256": "4f65acfd6788ff757ef2478bfaffd7636997f642e834a165b4a937c5aaa073e9",
+            "download_size": 4230,
+            "download_url": "https://github.com/ctbautomation/kicad-libraries/releases/download/1.0.0/ctb-kicad-addon.zip",
+            "install_size": 8437
+        }
+    ]
 }
